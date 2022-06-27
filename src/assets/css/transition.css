@@ -1,0 +1,17 @@
+/* 
+    [COMMON] Transition
+    Define transition animation types
+*/
+    /* .v-enter-from,
+    .v-leave-to{
+        opacity: 0;
+        transform: translateX(150px);
+    }
+
+    .v-enter-active{
+        transition: 0.3s all ease-in;
+    }
+    .v-leave-active{
+        transition: 0.3s all ease-out;
+    } */
+/**/
